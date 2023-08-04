@@ -17,7 +17,6 @@ addition, subtraction, multiplication, division, or exponentiation.
   You MUST have Java installed. To compile, navigate to your directory that contains the .java file and run the command "java App".
   You will be prompted to enter two numbers, and you can pick from a menu of operations to decide what you want to do with those numbers.
 
-  **AUTHOR: **
-  **ISMAEEL HASHIMI**
+  **AUTHOR: ISMAEEL HASHIMI**
 
   This is a very simple project to just demonstrate my understanding of Java and basic programming concepts.
